@@ -130,3 +130,8 @@ describe "TodoList" do
 end
 ```
 {: .repl-test #todo_list_test_5 for="todo_list" title="TodoList displays a message when no tasks are available" points="1"}
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
