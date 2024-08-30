@@ -48,35 +48,6 @@ todo_list.remove_task("Go to the gym")
 ```
 {: .repl #todo_list title="Todo List" }
 
-<!-- Solution
-```ruby
-class TodoList
-  def initialize
-    @tasks = []
-  end
-
-  def add_task(task)
-    @tasks << task
-  end
-
-  def remove_task(task)
-    if @tasks.include?(task)
-      @tasks.delete(task)
-    else
-      puts "Task not found"
-    end
-  end
-
-  def display_tasks
-    if @tasks.empty?
-      puts "No tasks in the list"
-    else
-      @tasks.each { |task| puts task }
-    end
-  end
-end
-``` -->
-
 ```ruby
 describe "TodoList" do
   it "initializes with an empty tasks list" do
