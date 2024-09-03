@@ -13,15 +13,15 @@ In this exercise, you will create a class called `TodoList` that represents a si
 ### 3. Add a `remove_task` Method:
 - Define a method `remove_task` that takes a single argument, task.
 - This method should remove the given task from the `@tasks` array.
-- If the task is not found in the list, print "Task not found".
+- If the task is not found in the list, print `"Task not found"`.
 
 ### 4. Add a `display_tasks` Method:
 - Define a method `display_tasks` that prints all tasks in the `@tasks` array.
-- If no tasks are available, print "No tasks in the list".
+- If no tasks are available, print `"No tasks in the list"`.
 
 ## Tips
 - Implement the `TodoList` class and its methods as described.
-- Try runnning in your own codespace
+- Try running in your own codespace
 - Add lots of `puts` statements to debug
 
 ## Exercise
