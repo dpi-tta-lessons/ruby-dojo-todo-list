@@ -1,4 +1,4 @@
-# Ruby Gym: Todo List
+# Ruby Dojo: Todo List
 In this exercise, you will create a class called `TodoList` that represents a simple to-do list. This class will allow users to add tasks, remove tasks, and display all tasks.
 
 ## Objectives
